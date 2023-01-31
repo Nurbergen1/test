@@ -1,5 +1,5 @@
 def square(a, b):
-    return a*b
+    print(a*b)
 
 
-print(square(2, 3))
+square(2, 3)
